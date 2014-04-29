@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  qiyetong
+
+  Created by khuang on 14-4-29.
+  Copyright (c) 2014年 servyou. All rights reserved.
+*/
+
+"Message" = "消息";
+"Orgnization" = "机构";
+"Group" = "讨论组";
+"Addon" = "应用";
